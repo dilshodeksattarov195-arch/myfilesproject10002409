@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpecrypt",
+        "uuid": 22998723,
+        "checksum": "x90dhn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
